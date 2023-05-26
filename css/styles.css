@@ -16,5 +16,7 @@
 }
 
 .fly {
-    background-color: blue;
+    background-color: grey;
+    background-image: url("./assets/css/noun-fly-png.png");
+    background-size: cover;
 }
