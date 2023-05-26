@@ -16,6 +16,6 @@
 }
 
 .fly {
-    background-image: url("code-games/whack-a-fly-JS-game/assets/images/noun-fly-png.png");
+    background-image: url("/images/noun-fly-png.png");
     background-size: cover;
 }
